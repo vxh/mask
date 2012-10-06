@@ -1,6 +1,4 @@
 /ebin
-*.vcxproj
-*.vcxproj.*
 *.sdf
 *.opensdf
 *.suo
